@@ -1,0 +1,5 @@
+C:\Users\mattb\source\repos\Metroidvania\Metroidvania\obj\Debug\net7.0\Metroidvania.csproj.AssemblyReference.cache
+C:\Users\mattb\source\repos\Metroidvania\Metroidvania\obj\Debug\net7.0\Metroidvania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mattb\source\repos\Metroidvania\Metroidvania\obj\Debug\net7.0\Metroidvania.AssemblyInfoInputs.cache
+C:\Users\mattb\source\repos\Metroidvania\Metroidvania\obj\Debug\net7.0\Metroidvania.AssemblyInfo.cs
+C:\Users\mattb\source\repos\Metroidvania\Metroidvania\obj\Debug\net7.0\Metroidvania.csproj.CoreCompileInputs.cache
